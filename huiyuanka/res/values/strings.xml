@@ -2,6 +2,7 @@
 <resources>
 
     <string name="hello">Hello World, HuiyuankaActivity!</string>
-    <string name="app_name">Huiyuanka</string>
+    <string name="app_name">会员卡</string>
+    
 
 </resources>
